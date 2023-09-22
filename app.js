@@ -1,4 +1,4 @@
-var express = require("express"); 
+ = require("express"); 
 const path = require('path');
 const cfenv = require('cfenv');
 
